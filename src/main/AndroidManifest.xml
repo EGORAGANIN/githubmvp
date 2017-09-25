@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name="ru.egoraganin.githubmvp.blank.BlankActivity" />
+        <activity android:name="layout.splash.SplashActivity" />
+        <activity android:name="ru.egoraganin.githubmvp.splash.Splash" />
+        <activity android:name="ru.egoraganin.githubmvp.splash.AuthorizationActivity" />
+        <activity android:name="ru.egoraganin.githubmvp.mvp.ProfileActivity" />
+    </application>
+
+</manifest>
